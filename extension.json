@@ -1,0 +1,6 @@
+{
+  "id": "word-paste",
+  "name": "word-paste",
+  "srcdoc": "./build/index.html",
+  "sidebar": true
+}
